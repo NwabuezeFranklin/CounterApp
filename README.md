@@ -1,4 +1,4 @@
-# altproject
+# altproject.
 
 ## Project setup
 ```
