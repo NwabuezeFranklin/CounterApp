@@ -1,6 +1,6 @@
 # altproject.
 
-link to project: https://counter-app-nwabueze.netlify.app/
+### link to project: https://counter-app-nwabueze.netlify.app/
 
 ## Project setup
 ```
